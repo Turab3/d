@@ -1,0 +1,34 @@
+
+
+li{
+    padding: 10px;
+}
+
+
+.bg{
+    background-color: #000000;
+}
+
+.card{
+    transition: 0.5s;
+}
+.card:hover{
+    margin-top: -3px;
+}
+
+.h{
+    color: white;
+}
+.h:hover{
+        
+        background: -webkit-linear-gradient(#057922, #1c5cb1);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+}
+
+.c{
+    background: -webkit-linear-gradient(#057922, #1c5cb1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
